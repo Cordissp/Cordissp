@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Cordissp&fontSize=75&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Minecraft%20Sunucu%20Gelistiricisi%20Developer&descAlignY=60&descColor=a0c4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Cordissp&fontSize=75&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Minecraft%20Server%20Developer&descAlignY=60&descColor=a0c4ff" />
 
 </div>
 
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-.cordissp-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/cordissp)
-[![GitHub](https://img.shields.io/github/followers/Cordissp?style=for-the-badge&color=00d4ff&logo=github&logoColor=white&label=Takipci)](https://github.com/Cordissp)
-[![Profil](https://komarev.com/ghpvc/?username=Cordissp&style=for-the-badge&color=302b63&label=Profil+Goruntulenme)](https://github.com/Cordissp)
+[![GitHub](https://img.shields.io/github/followers/Cordissp?style=for-the-badge&color=00d4ff&logo=github&logoColor=white&label=Followers)](https://github.com/Cordissp)
+[![Profile Views](https://komarev.com/ghpvc/?username=Cordissp&style=for-the-badge&color=302b63&label=Profile+Views)](https://github.com/Cordissp)
 
 </div>
 
@@ -16,7 +16,29 @@
 
 <div align="center">
 
-## 🛠️ Kullandığım Teknolojiler
+## 📊 GitHub Stats
+
+<br>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cordissp&theme=tokyonight)](https://github.com/Cordissp)
+
+<br>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cordissp&theme=tokyonight)](https://github.com/Cordissp)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cordissp&theme=tokyonight&utcOffset=3)](https://github.com/Cordissp)
+
+<br>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cordissp&theme=tokyonight)](https://github.com/Cordissp)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cordissp&theme=tokyonight)](https://github.com/Cordissp)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Technologies
 
 <br>
 
@@ -32,29 +54,11 @@
 
 <div align="center">
 
-## 📊 GitHub İstatistikleri
+## 🐍 Contribution Graph
 
 <br>
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Cordissp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00d4ff&text_color=a0c4ff&icon_color=302b63&bg_color=0d1117" />
-&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cordissp&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=a0c4ff&bg_color=0d1117" />
-
-<br><br>
-
-![GitHub Serisi](https://streak-stats.demolab.com?user=Cordissp&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00d4ff&fire=302b63&currStreakLabel=a0c4ff&background=0d1117)
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Katkı Grafiği
-
-<br>
-
-![Snake animasyonu](https://raw.githubusercontent.com/Cordissp/Cordissp/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Cordissp/Cordissp/output/snake.svg)
 
 </div>
 

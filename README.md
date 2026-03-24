@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Cordissp&fontSize=75&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Minecraft%20Sunucu%20Geli%C5%9Ftiricisi%20%26%20Developer&descAlignY=60&descColor=a0c4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Cordissp&fontSize=75&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Minecraft%20Sunucu%20Gelistiricisi%20Developer&descAlignY=60&descColor=a0c4ff" />
 
 </div>
 
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-.cordissp-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/cordissp)
-[![GitHub](https://img.shields.io/github/followers/Cordissp?style=for-the-badge&color=00d4ff&logo=github&logoColor=white&label=Takip%C3%A7i)](https://github.com/Cordissp)
-[![Profil Görüntülenme](https://komarev.com/ghpvc/?username=Cordissp&style=for-the-badge&color=302b63&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme)](https://github.com/Cordissp)
+[![GitHub](https://img.shields.io/github/followers/Cordissp?style=for-the-badge&color=00d4ff&logo=github&logoColor=white&label=Takipci)](https://github.com/Cordissp)
+[![Profil](https://komarev.com/ghpvc/?username=Cordissp&style=for-the-badge&color=302b63&label=Profil+Goruntulenme)](https://github.com/Cordissp)
 
 </div>
 

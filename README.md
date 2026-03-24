@@ -20,17 +20,17 @@
 
 <br>
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cordissp&theme=tokyonight)](https://github.com/Cordissp)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cordissp&theme=dracula)](https://github.com/Cordissp)
 
 <br>
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cordissp&theme=tokyonight)](https://github.com/Cordissp)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cordissp&theme=tokyonight&utcOffset=3)](https://github.com/Cordissp)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cordissp&theme=dracula)](https://github.com/Cordissp)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cordissp&theme=dracula&utcOffset=3)](https://github.com/Cordissp)
 
 <br>
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cordissp&theme=tokyonight)](https://github.com/Cordissp)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cordissp&theme=tokyonight)](https://github.com/Cordissp)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cordissp&theme=dracula)](https://github.com/Cordissp)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cordissp&theme=dracula)](https://github.com/Cordissp)
 
 </div>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-##  Contribution Graph
+## 🐍 Contribution Graph
 
 <br>
 

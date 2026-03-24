@@ -54,7 +54,7 @@
 
 <div align="center">
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <br>
 
